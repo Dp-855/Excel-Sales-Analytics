@@ -40,5 +40,4 @@
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Make reports that users can easily understand.
-- [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Have a plan for building reports in a logical way.
